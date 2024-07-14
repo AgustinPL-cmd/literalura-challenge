@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.agustin</groupId>
-	<artifactId>literalura-project</artifactId>
+	<artifactId>literalura</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>literalura-project</name>
+	<name>literalura</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

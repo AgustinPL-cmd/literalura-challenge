@@ -1,10 +1,10 @@
-package com.agustin.literalura_project;
+package com.agustin.literalura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LiteraluraProjectApplicationTests {
+class LiteraluraApplicationTests {
 
 	@Test
 	void contextLoads() {
